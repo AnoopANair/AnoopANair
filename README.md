@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anoopanair&label=Profile%20views&color=0e75b6&style=flat" alt="anoopanair" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anoopanair" alt="anoopanair" /></a> </p>
+<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=anoopanair" alt="anoopanair" /></a> </p>
 
 - 🔭 I’m currently working on [QE_control](https://github.com/AnoopANair/QE_control)
 
