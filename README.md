@@ -1,21 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anoop A Nair</h1>
+<h2 align="center">Hi! I'm Anoop A Nair</h2>
 <h3 align="center">I'm a Machine learning and DFT enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anoopanair&label=Profile%20views&color=0e75b6&style=flat" alt="anoopanair" /> </p>
 
 <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=anoopanair" alt="anoopanair" /></a> </p>
 
-- 🔭 I’m currently working on [QE_control](https://github.com/AnoopANair/QE_control)
-
-- 🌱 I’m currently learning **Pytorch**
-
-- 📝 I write articles (atleast occasionally) on [https://medium.com/@anoopreceivesmail](https://medium.com/@anoopreceivesmail)
-
-- 💬 Ask me about **Tensorflow and Quantum ESPRESSO**
-
-- 📫 How to reach me **mailanoopanair@gmail.com**
-
-- ⚡ Fun fact **Don't code without coffee. It sucks!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
